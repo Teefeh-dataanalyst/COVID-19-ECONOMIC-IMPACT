@@ -17,15 +17,15 @@ This project seeks to track, analyze, and visualize the relationship between COV
 
 # APPROACH AND METHODOLOGY
 
-✅ Data Cleaning - Excel for null removals and duplicate removal
-✅Data Extraction & Cleaning – SQL queries to extract and structure COVID-19 and economic data.
-✅ Power BI Dashboard Development – Interactive reports for trend analysis.
-✅ DAX Calculations – Advanced Calculations for financial and case growth analysis.
+- Data Cleaning - Excel for null removals and duplicate removal
+- Data Extraction & Cleaning – SQL queries to extract and structure COVID-19 and economic data.
+- Power BI Dashboard Development – Interactive reports for trend analysis.
+- DAX Calculations – Advanced Calculations for financial and case growth analysis.
 
 
 # EXPECTED OUTCOMES
 
-📊 A comprehensive Power BI dashboard providing real-time insights into the pandemic’s economic effects.
-📊 Identification of key patterns and correlations between COVID-19 cases and financial indicators.
+- A comprehensive Power BI dashboard providing real-time insights into the pandemic’s economic effects.
+- Identification of key patterns and correlations between COVID-19 cases and financial indicators.
 
 
